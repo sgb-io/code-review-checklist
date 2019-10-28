@@ -23,4 +23,4 @@ For test code, is the code:
 
 ## Reasoning and philosophy
 
-This list is currently entirely subjective. It's a combination of personal thoughts and views but is also influenced by the progamming and open source community, plus many brilliant colleagues and peers.
+This list is currently entirely subjective. It's a combination of personal thoughts and views based on my experiences but is also influenced by the progamming and open source community, plus many brilliant colleagues and peers.
